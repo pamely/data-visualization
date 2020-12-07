@@ -1,6 +1,9 @@
 # An exploration of Ford GoBike data
 ## by Pamely ZANTOU
 
+## Investigation Overview
+
+In this investigation, we wanted to look for the relationship between Ford Gobike type of users, their travelled distance and rental duration.
 
 ## Dataset
 
